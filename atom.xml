@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>kinsey&#39;s blog</title>
   
-  
+  <subtitle>没有与生俱来的天赋，面对人山人海只有诚恳</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-17T03:14:31.798Z</updated>
+  <updated>2018-05-17T03:07:52.012Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>kinsey</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://yoursite.com/2018/05/17/test/"/>
-    <id>http://yoursite.com/2018/05/17/test/</id>
-    <published>2018-05-17T03:14:31.000Z</published>
-    <updated>2018-05-17T03:14:31.798Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
