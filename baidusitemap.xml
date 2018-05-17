@@ -4,27 +4,12 @@
 
     
   <url>
-    <loc>http://yoursite.com/2018/05/17/test/</loc>
-    <lastmod>2018-05-17T07:45:15.660Z</lastmod>
+    <loc>http://yoursite.com/2018/05/17/consul-%E6%B3%A8%E5%86%8C%E4%B8%AD%E5%BF%83%E7%9A%84%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2018-05-17T13:23:34.303Z</lastmod>
     <data>
         <display>
-        <title>test</title>
-        <pubTime>2018-05-17T07:45:15.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2018/05/17/hello-world/</loc>
-    <lastmod>2018-05-17T03:07:52.012Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-05-17T03:07:52.012Z</pubTime>
+        <title>consul 注册中心的搭建</title>
+        <pubTime>2018-05-17T13:23:34.000Z</pubTime>
         
          
            
